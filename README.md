@@ -14,6 +14,3 @@ This app implements a camera functionality using the capacitor library.
 ### Photo taken with the Camera App
 ![Photo Taken](./public/images/mobile.jpeg)  
 <br>
-
-### Photo taken in the web browser
-![Photo Taken](./public/images/web.JPG)
